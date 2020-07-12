@@ -9,8 +9,9 @@
   - IoRT 환경에서 로봇의 사물 및 환경의 인지를 위한 ROS 기반의 지능형 서비스 로봇 제어 SW 플랫폼 기술 개발
 
 - 논문
-  - A User-defined Dataset Retrieving Method for Analytical Applications in Machine Learning (APIC-IST 2017)
-  - 헬스 케어 로봇서비스를 위핚 시계열 바이탈 시그널의 패턴 분석 방법(KROS 2017)
+  - Dataset retrieval system based on automation of data preparation with dataset description model (Concurrency and Computation : Practice and Experience, 2019)
+  - A User-defined Dataset Retrieving Method for Analytical Applications in Machine Learning (APIC-IST, 2017)
+  - 헬스 케어 로봇서비스를 위핚 시계열 바이탈 시그널의 패턴 분석 방법 (KROS, 2017)
 
 ## 학사과정
 
