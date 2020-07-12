@@ -7,6 +7,7 @@
 - [Awards](#awards)
 - [Educations](#educations)
 
+---
 ## About Me
 
 ### 직업 목표
