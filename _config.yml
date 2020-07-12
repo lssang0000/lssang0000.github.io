@@ -1,7 +1,9 @@
-theme                  : jekyll-theme-minimal
+theme             : jekyll-theme-minimal
 
-title                    : "Imreplay blog"
-title_separator          : "-" 
-name                     : "lssasng0000" 
-description              : "lssasng0000's portfolio." 
-url                      : "https://lssasng0000.github.io" 
+favicon           : assets/built/images/favicon.jpg
+title             : "Portfolio - SANG HWAN LEE"
+title_separator   : "-" 
+name              : "lssasng0000" 
+description       : "#Devops #Spring #Spring-boot #Container #Docker #Kubernetes #MSA #fin-tech #Cloud #AWS #Azure 
+url               : "https://lssang0000.github.io"
+source_url        : "https://github.com/lssang0000"
