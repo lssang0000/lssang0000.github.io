@@ -18,7 +18,7 @@
 
 ![](https://img.shields.io/badge/2016.03~2017.12--brightgreen.svg)
 
-- [석사 프로젝트 링크](/student/sutdent.md#석사과정)
+- [석사 프로젝트 링크](/student/student.md#석사과정)
 
 ![](https://img.shields.io/badge/2018.05~2029.02--blue.svg)
 
@@ -27,7 +27,7 @@
 
 ![Generic badge](https://img.shields.io/badge/2018.05~2029.02--brightgreen.svg)
 
-- [학사 프로젝트 링크](/student/sutdent.md#학사과정)
+- [학사 프로젝트 링크](/student/student.md#학사과정)
 
 ## Skills
 
