@@ -31,31 +31,31 @@
 
 ## Skills
 
-### Development
+#### Development
  ![](https://img.shields.io/badge/C-blue.svg) ![](https://img.shields.io/badge/Java-blue.svg) ![](https://img.shields.io/badge/Spring-blue.svg) ![](https://img.shields.io/badge/Spring_boot-blue.svg) 
 
-### Server
+#### Server
 ![](https://img.shields.io/badge/Ubuntu-blue.svg) ![](https://img.shields.io/badge/CentOS-blue.svg) ![](https://img.shields.io/badge/Apache-blue.svg) ![](https://img.shields.io/badge/Tomcat-blue.svg)  
 
-### Database
+#### Database
 ![](https://img.shields.io/badge/Mysql-blue.svg) ![](https://img.shields.io/badge/Oracle-blue.svg) ![](https://img.shields.io/badge/Elasticsearch-blue.svg) 
 
-### CICD
+#### CICD
 ![](https://img.shields.io/badge/Bash_Script-blue.svg) ![](https://img.shields.io/badge/Jenkins-blue.svg) ![](https://img.shields.io/badge/SVN-blue.svg) ![](https://img.shields.io/badge/Git-blue.svg) 
 
-### Container
+#### Container
 ![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/kubernetes-blue.svg) ![](https://img.shields.io/badge/EKS-blue.svg) ![](https://img.shields.io/badge/ECR-blue.svg) ![](https://img.shields.io/badge/AKS-blue.svg) ![](https://img.shields.io/badge/ACR-blue.svg)
 
-### Cloud
+#### Cloud
 ![](https://img.shields.io/badge/AWS-blue.svg) ![](https://img.shields.io/badge/Azure-blue.svg)
 
-### Static Analysis
+#### Static Analysis
 ![](https://img.shields.io/badge/Sonarqube-blue.svg)
 
-### Test
+#### Test
 ![](https://img.shields.io/badge/Postman-blue.svg) 
 
-### Monitoring
+#### Monitoring
 ![](https://img.shields.io/badge/Kibana-blue.svg) ![](https://img.shields.io/badge/Logstash-blue.svg) ![](https://img.shields.io/badge/metricbeats-blue.svg)
 
 ## Certificate
