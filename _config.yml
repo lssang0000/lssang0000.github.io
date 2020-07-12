@@ -1,7 +1,7 @@
 theme             : jekyll-theme-minimal
 
 favicon           : assets/built/images/favicon.jpg
-title             : "Portfolio"
+title             : "Sanghwan Lee"
 title_separator   : "-" 
 name              : "lssasng0000" 
 description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>#Container #Docker #Kubernetes  </br>#Cloud #AWS #Azure </br>#Bash #CICD #Jenkins #Git #SVN"
