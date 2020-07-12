@@ -7,3 +7,5 @@ name              : "lssasng0000"
 description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>#Container #Docker #Kubernetes  </br>#Cloud #AWS #Azure </br>#Bash #CICD #Jenkins #Git #SVN"
 url               : "https://lssang0000.github.io"
 source_url        : "https://github.com/lssang0000"
+
+baseurl: /
