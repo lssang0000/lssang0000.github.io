@@ -34,8 +34,8 @@
 
 ![](https://img.shields.io/badge/2018.05~2029.02--blue.svg)
 
-- [ 2015.02 ~ 2015.08 ] 사내 웹 페이지 개발
-- [ 2015.02 ~ 2015.08 ] 인슐린 펌프 펌웨어 개발 (외주)
+- [ 2015.02 ~ 2015.08 ] - 사내 웹 페이지 개발
+- [ 2015.02 ~ 2015.08 ] - 인슐린 펌프 펌웨어 개발 (외주)
 
 ![Generic badge](https://img.shields.io/badge/2018.05~2029.02--brightgreen.svg)
 
@@ -75,17 +75,26 @@
 
 ## Certificates
 
-- AWS Certified Solutions Architect - Associate
-- 정보처리기사
+- [2018.11.21] - AWS Certified Solutions Architect - Associate
+- [2013.06.14] - 정보처리기사
 
 ---
 
 ## Awards
 
-- 
+- (작성중)
 
 ---
 
 ## Educations
 
-- 
+#### KITRI
+- [ 2020.06.30 ~ 2020.07.01 ] - 마이크로 서비스를 위한 이벤트 소싱과 CQRS
+
+#### KOSTA
+- [ 2020.11.14 ~ 2020.11.15 ] - Spring 프레임워크 입문과 활용
+- [ 2020.11.04 ~ 2020.11.08 ] - Docker와 Kubernetes를 통한 MSA 구축
+- [ 2020.10.28 ~ 2020.10.29 ] - Spring Boot 활용 웹 MVC와 Security
+
+
+
