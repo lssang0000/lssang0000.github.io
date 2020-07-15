@@ -79,6 +79,9 @@
 #### Monitoring
 ![](https://img.shields.io/badge/Kibana-blue.svg) ![](https://img.shields.io/badge/Logstash-blue.svg) ![](https://img.shields.io/badge/metricbeats-blue.svg)
 
+#### Cooperation
+![](https://img.shields.io/badge/Slack-blue.svg) ![](https://img.shields.io/badge/Redmine-blue.svg) ![](https://img.shields.io/badge/Azure_boards-blue.svg) ![](https://img.shields.io/badge/Trello-blue.svg)
+
 ---
 
 ## Certificates
@@ -102,7 +105,7 @@
 - 대회명: 대학생 창업아이템경진대회
 - 주관: 안성시대학창업지원협의회
 - 수상: 장려상
-- [작품 상세]() - (작성중 입니다.)
+- [작품 상세]() - (작성중 입니다...)
 
 ---
 
