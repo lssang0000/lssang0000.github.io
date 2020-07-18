@@ -11,19 +11,19 @@
 ## About Me
 
 ### 직업 목표
-```
+
 - 프로그래밍 능력은 기본이고 클라우드 및 CI/CD 도구를 두루 다룰 줄 아는 DevOps 엔지니어가 목표입니다.
-```
+
 ### 관심 분야
-```
+
 - 개발부터 운영까지 다수의 시스템 간 리소스 흐름을 파악하고, 관리하고, 개선하는 것을 좋아합니다.
 - 대량 트래픽 처리 서비스와 컨테이너 기반 기술, 그리고 MSA에 관심을 가지고 공부하며 경험을 쌓고 있습니다. 
-```
+
 ### 관심 문화
-```
+
 - 시스템 관리자, 개발자, 운영자, 결정권자 등 그룹 구성원들 간 눈높이를 맞추고 의사소통하는 것을 중요하게 생각합니다.
 - 외부 세미나/교육 및 개인 공부를 통해 끊임없이 성장하고 그룹 구성원들 간 공유할 수 있는 기술 문화를 만들어가고 싶습니다.
-```
+
 
 ---
 ## Experiences
@@ -62,7 +62,7 @@
 ![](https://img.shields.io/badge/Mysql-blue.svg) ![](https://img.shields.io/badge/Oracle-blue.svg) ![](https://img.shields.io/badge/Elasticsearch-blue.svg) 
 
 #### CICD
-![](https://img.shields.io/badge/Bash_Script-blue.svg) ![](https://img.shields.io/badge/Jenkins-blue.svg) ![](https://img.shields.io/badge/SVN-blue.svg) ![](https://img.shields.io/badge/Git-blue.svg) 
+![](https://img.shields.io/badge/Bash_Script-blue.svg) ![](https://img.shields.io/badge/Jenkins-blue.svg) ![](https://img.shields.io/badge/SVN-blue.svg) ![](https://img.shields.io/badge/Git-blue.svg) ![](https://img.shields.io/badge/Gradle-blue.svg) ![](https://img.shields.io/badge/Ant-blue.svg) 
 
 #### Cloud
 ![](https://img.shields.io/badge/AWS-blue.svg) ![](https://img.shields.io/badge/Azure-blue.svg)
