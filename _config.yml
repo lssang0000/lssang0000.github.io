@@ -1,22 +1,8 @@
 theme             : jekyll-theme-minimal
 
-favicon           : assets/favicon.jpg
+favicon           : /assets/favicon.jpg
 title             : "Sanghwan Lee"
-title_separator   : "-" 
-
-author:
-  name            : "lssasng0000" 
-  avatar          : "assets/lssang0000.gif"
-  bio             : "이건 무슨 속성?"
-  #location        : "South Korea"
-  #email           : lssang0000@gmail.com
-  links           :
-    - label: "Email"
-      icon : "fas fa-fw fa-envelope-square"
-      url  : lssang0000@gmail.com
-    - lable: "Blog (Coming Soon!)"
-      icon: "fas fa-fw fa-link"
-      url: "https://lssang0000.github.io/blog/"
+logo              : /assets/lssang0000.gif
 
 description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>#Container #Docker #Kubernetes  </br>#Cloud #AWS #Azure </br>#CICD #Bash #Jenkins #Git #SVN #Gradle"
 
