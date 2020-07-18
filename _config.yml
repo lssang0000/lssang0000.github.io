@@ -4,8 +4,7 @@ favicon           : /assets/favicon.jpg
 title             : "Sanghwan Lee"
 logo              : /assets/lssang0000.gif
 
-description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>#Container #Docker #Kubernetes  </br>#Cloud #AWS #Azure </br>#CICD #Bash #Jenkins #Git #SVN #Gradle </p> <a href="https://github.com/lssang0000/blog/">View My Blog</a>
-<p>"
+description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>#Container #Docker #Kubernetes  </br>#Cloud #AWS #Azure </br>#CICD #Bash #Jenkins #Git #SVN #Gradle </p> <a>test</a> <p>"
 
 url               : "https://lssang0000.github.io"
 source_url        : "https://github.com/lssang0000"
