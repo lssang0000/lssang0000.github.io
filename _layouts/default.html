@@ -22,14 +22,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_blog_page %}
-        <p class="view"><a href="{{ site.github.blog_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
+        
+        <p class="view"><a href="{{ site.blog_url }}">{{site.blog_label}} <small>{{ site.blog_nwo }}</small></a></p>
+        
+        <p class="view"><a href="{{ site.repository_url }}">{site.repository_label}} <small>{{ site.repository_nwo }}</small></a></p>
+        
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
