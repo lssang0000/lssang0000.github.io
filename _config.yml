@@ -9,3 +9,8 @@ description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>
 url               : "https://lssang0000.github.io"
 source_url        : "https://github.com/lssang0000"
 baseurl           : /
+
+github.is_blog_page    : true
+github.blog_url        : "https://github.com/lssang0000/blog"
+github.is_project_page : true
+github.repository_url  : "https://github.com/lssang0000/lssang0000.github.io"
