@@ -10,9 +10,10 @@ url               : "https://lssang0000.github.io"
 source_url        : "https://github.com/lssang0000"
 baseurl           : /
 
-blog_url          : "https://github.com/lssang0000/blog"
-blog_label        : "View the Blog on GitHub Page"
-blog_nwo          : "Comming Soon !"
 repository_url    : "https://github.com/lssang0000/lssang0000.github.io"
 repository_label  : "View the Project on GitHub"
-repository_nwo    : ""
+repository_nwo    : "Custom of jekyll-theme-minimal"
+
+blog_url          : "https://lssang0000.github.io/blog/"
+blog_label        : "View the Blog on GitHub Page"
+blog_nwo          : "Comming Soon ... "
