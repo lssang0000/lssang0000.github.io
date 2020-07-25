@@ -16,22 +16,22 @@
 
 ### 관심 분야
 
-- 개발부터 운영까지 다수의 시스템 간 리소스 흐름을 파악하고, 관리하고, 개선하는 것을 좋아합니다.
-- 대용량 트래픽 처리, 컨테이너 기반 기술, 그리고 MSA에 관심을 가지고 공부하며 경험을 쌓고 있습니다. 
+- 시스템 간 리소스 흐름을 파악하고, 관리하고, 개선하는 것을 좋아합니다.
+- 대용량 트래픽 처리, 컨테이너 기술, 그리고 MSA에 관심을 가지고 공부하며 경험을 쌓고 있습니다. 
 
 ### 관심 문화
 
-- 시스템 관리자, 개발자, 운영자, 결정권자 등 구성원 간 눈높이를 맞추고 소통하는 것을 중요하게 생각합니다.
-- 세미나, 교육, 개인 공부를 통해 끊임없이 성장하고 구성원 간 공유하는 기술 문화를 만들어가고 싶습니다.
+- 팀 구성원 간 눈높이를 맞추고 소통하는 것을 중요하게 생각합니다.
+- 세미나, 교육, 개인 공부를 통해 끊임없이 성장하고 공유하는 기술 문화를 만들어가고 싶습니다.
 
 ---
 ## Experiences
 
 ![](https://img.shields.io/badge/2018.01~2020.08--blue.svg)
 
-- [ 2020.02 ~ 2020.08 ] - 코어 뱅킹 패키지 SaaS 프로젝트
-- [ 2019.03 ~ 2020.01 ] - 코어 뱅킹 패키지 개발 및 시스템 구축/운영  
-- [ 2018.05 ~ 2019.02 ] - 하나은행 기업평가 시스템 재구축 프로젝트 (외주)
+- [ 2020.02 ~ 2020.08 ] - 코어 뱅킹 패키지 SaaS 전환 프로젝트
+- [ 2019.03 ~ 2020.01 ] - 코어 뱅킹 패키지 개발 플랫폼 개발/구축/운영  
+- [ 2018.05 ~ 2019.02 ] - 하나은행 여신 기업평가 시스템 재구축 프로젝트
 
 
 ![](https://img.shields.io/badge/2016.03~2017.12--brightgreen.svg)
@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/2018.05~2029.02--blue.svg)
 
 - [ 2015.08 ~ 2015.11 ] - 스마트폰 연동 카드 결제 단말기 펌웨어 개발
-- [ 2015.02 ~ 2015.08 ] - 인슐린 펌프 펌웨어 개발 (외주)
+- [ 2015.02 ~ 2015.08 ] - 인슐린 펌프 펌웨어 개발
 
 
 ![Generic badge](https://img.shields.io/badge/2018.05~2029.02--brightgreen.svg)
@@ -55,7 +55,7 @@
  ![](https://img.shields.io/badge/Java-blue.svg) ![](https://img.shields.io/badge/JSP-blue.svg) ![](https://img.shields.io/badge/Spring-blue.svg) ![](https://img.shields.io/badge/Spring_boot-blue.svg) ![](https://img.shields.io/badge/C-blue.svg) ![](https://img.shields.io/badge/ProFrame-blue.svg)
 
 #### Server
-![](https://img.shields.io/badge/Ubuntu-blue.svg) ![](https://img.shields.io/badge/CentOS-blue.svg) ![](https://img.shields.io/badge/Apache-blue.svg) ![](https://img.shields.io/badge/Tomcat-blue.svg)  
+![](https://img.shields.io/badge/Ubuntu-blue.svg) ![](https://img.shields.io/badge/CentOS-blue.svg) ![](https://img.shields.io/badge/Apache-blue.svg) ![](https://img.shields.io/badge/Tomcat-blue.svg) ![](https://img.shields.io/badge/Nginx-blue.svg)  
 
 #### Database
 ![](https://img.shields.io/badge/Mysql-blue.svg) ![](https://img.shields.io/badge/Oracle-blue.svg) ![](https://img.shields.io/badge/Elasticsearch-blue.svg) 
@@ -67,7 +67,7 @@
 ![](https://img.shields.io/badge/AWS-blue.svg) ![](https://img.shields.io/badge/Azure-blue.svg)
 
 #### Container
-![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/docker--compose-blue.svg) ![](https://img.shields.io/badge/kubernetes-blue.svg) ![](https://img.shields.io/badge/EKS-blue.svg) ![](https://img.shields.io/badge/ECR-blue.svg) ![](https://img.shields.io/badge/AKS-blue.svg) ![](https://img.shields.io/badge/ACR-blue.svg)
+![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/docker--compose-blue.svg) ![](https://img.shields.io/badge/Kubernetes-blue.svg) ![](https://img.shields.io/badge/Container_Registry-blue.svg)
 
 #### Static Analysis
 ![](https://img.shields.io/badge/Sonarqube-blue.svg)
