@@ -38,7 +38,7 @@
     - 주관: 안성시대학창업지
     - 수상: 장려상
 
-![image alt ](/assets/awards/award-2012.png#center)
+![image](/assets/awards/award-2012.png#center){: .center}
 
 ![image](/assets/awards/award-2012-01.png)
 ![image](/assets/awards/award-2012-02.png)
