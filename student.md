@@ -52,24 +52,25 @@
 
 - 프로젝트 01(좌), 프로젝트 02(우)
 
-![image](/assets/awards/award-2013.png)
-![image](/assets/awards/award-2012.png)
+<img src="assets/awards/award-2013.png" width="40%" height="400" />
+<img src="assets/awards/award-2012.png" width="40%" height="400" />
+
 
 
 ### 프로젝트 1 실행화면
 
  -  PC 환경 설정 화면(좌), 모바일 앱 실행 화면(우)
 
-![image](/assets/awards/award-2013-01.png)
-![image](/assets/awards/award-2013-02.png)
-![image](/assets/awards/award-2013-03.png)
-![image](/assets/awards/award-2013-04.png)
+<img src="assets/awards/award-2013-01.png" width="30%" height="300" />
+<img src="assets/awards/award-2013-02.png" width="20%" height="300" />
+<img src="assets/awards/award-2013-03.png" width="20%" height="300" />
+<img src="assets/awards/award-2013-03.png" width="20%" height="300" />
 
 ### 프로젝트 2 실행화면
 
  - 메인화면 암호화(좌), 어플리케이션 허용여부(중), 서브 런쳐화면(우)
 
-![image](/assets/awards/award-2012-01.png)
-![image](/assets/awards/award-2012-02.png)
-![image](/assets/awards/award-2012-03.png)
+<img src="assets/awards/award-2012-01.png" width="30%" height="350" />
+<img src="assets/awards/award-2012-02.png" width="30%" height="350" />
+<img src="assets/awards/award-2012-03.png" width="30%" height="350" />
 
