@@ -4,7 +4,7 @@ favicon           : /assets/favicon.jpg
 title             : "Sanghwan Lee"
 logo              : /assets/lssang0000.gif
 
-description       : "#Devops #MSA #FinTech </br>#Java #Spring #Spring-boot </br>#Container #Docker #Kubernetes  </br>#Cloud #AWS #Azure </br>#CICD #Bash #Jenkins #Git #SVN #Gradle"
+description       : "<br/>개발도 하고 시스템도 하는 자전거맨입니다. 드디어 마음에 드는 블로그 플랫폼을 찾았습니다. 하나하나 채워나가 보려합니다. <br/> #Devops #JVM #MSA #Cloud #FinTech ..."
 
 url               : "https://lssang0000.github.io"
 source_url        : "https://github.com/lssang0000"
