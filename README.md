@@ -57,7 +57,7 @@
 #### Server
 ![](https://img.shields.io/badge/Ubuntu-blue.svg) ![](https://img.shields.io/badge/CentOS-blue.svg) ![](https://img.shields.io/badge/Apache-blue.svg) ![](https://img.shields.io/badge/Tomcat-blue.svg) ![](https://img.shields.io/badge/Nginx-blue.svg)  
 
-#### Database
+#### Database(+ Search engine)
 ![](https://img.shields.io/badge/Mysql-blue.svg) ![](https://img.shields.io/badge/Oracle-blue.svg) ![](https://img.shields.io/badge/Elasticsearch-blue.svg) 
 
 #### CICD
