@@ -3,9 +3,9 @@
 - [About Me](#about-me)
 - [Experiences](#experiences)
 - [Skills](#skills)
+- [Educations](#educations)
 - [Certificates](#certificates)
 - [Awards](#awards)
-- [Educations](#educations)
 
 ---
 ## About Me
