@@ -57,11 +57,11 @@
 #### Server
 ![](https://img.shields.io/badge/Ubuntu-blue.svg) ![](https://img.shields.io/badge/CentOS-blue.svg) ![](https://img.shields.io/badge/Apache-blue.svg) ![](https://img.shields.io/badge/Tomcat-blue.svg) ![](https://img.shields.io/badge/Nginx-blue.svg)  
 
-#### Database(+ Search engine)
+#### Database(+ Search Engine)
 ![](https://img.shields.io/badge/Mysql-blue.svg) ![](https://img.shields.io/badge/Oracle-blue.svg) ![](https://img.shields.io/badge/Elasticsearch-blue.svg) 
 
 #### CICD
-![](https://img.shields.io/badge/Bash_Script-blue.svg) ![](https://img.shields.io/badge/Jenkins-blue.svg) ![](https://img.shields.io/badge/SVN-blue.svg) ![](https://img.shields.io/badge/Git-blue.svg) ![](https://img.shields.io/badge/Gradle-blue.svg) ![](https://img.shields.io/badge/Ant-blue.svg) 
+![](https://img.shields.io/badge/Bash_Script-blue.svg) ![](https://img.shields.io/badge/Jenkins-blue.svg) ![](https://img.shields.io/badge/SVN-blue.svg) ![](https://img.shields.io/badge/Git-blue.svg) ![](https://img.shields.io/badge/GitLab-blue.svg) ![](https://img.shields.io/badge/Gradle-blue.svg) ![](https://img.shields.io/badge/Ant-blue.svg) 
 
 #### Cloud
 ![](https://img.shields.io/badge/AWS-blue.svg) ![](https://img.shields.io/badge/Azure-blue.svg)

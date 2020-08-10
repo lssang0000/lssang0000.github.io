@@ -4,16 +4,17 @@ favicon           : /assets/favicon.jpg
 title             : "Sanghwan Lee"
 logo              : /assets/lssang0000.gif
 
-description       : "<br/>개발도하고 시스템도하는 자전거맨입니다. 마음에 드는 블로그 플랫폼을 찾았습니다. 하나하나 채워나가 보려합니다. <br/><br/>#Devops #JVM #MSA #Cloud #FinTech ...<br/>"
+description       : "<br/>개발도하고 시스템도하는 자전거맨입니다. <br/><br/>#Devops #Container #Java #Cloud #MSA #FinTech<br/><br/> ↓↓↓↓ BLOG ↓↓↓↓<br/>"
 
 url               : "https://lssang0000.github.io"
 source_url        : "https://github.com/lssang0000"
 baseurl           : /
 
+blog_url          : "https://lssang0000.github.io/blog/"
+blog_label        : "View My Blog"
+blog_nwo          : "Dev & Travel notes"
+
 repository_url    : "https://github.com/lssang0000/lssang0000.github.io"
 repository_label  : "View the Project on GitHub"
 repository_nwo    : "Custom of jekyll-theme-minimal"
 
-blog_url          : "https://lssang0000.github.io/blog/"
-blog_label        : "View the Blog on GitHub Page"
-blog_nwo          : "Dev & Travel notes"
