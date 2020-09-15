@@ -29,7 +29,7 @@
 
 ![](https://img.shields.io/badge/2018.01~2020.08--blue.svg)
 
-- [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes 기반)
+- [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes)
 - [ 2019.03 ~ 2020.09 ] - Docker 기반의 SW 제품 개발 시스템 구축/운영  
 - [ 2018.05 ~ 2019.02 ] - 하나은행 여신 기업평가 시스템 재구축 프로젝트
 
@@ -45,7 +45,7 @@
 
 ![Generic badge](https://img.shields.io/badge/2018.05~2029.02--brightgreen.svg)
 
-- GeniXcon - 자이로스코프 센서를 이용한 PC 원격 제어 모바일 애플리케이션
+- GeniXcon - 자이로스코프를 이용한 PC 원격 제어 모바일 애플리케이션
 - 태블릿 PC 보호런쳐 - 사용자 작업 환경 격리 모바일 애플리케이션
 - [학사 활동 상세 이력 링크](student.md#학사과정)
 
