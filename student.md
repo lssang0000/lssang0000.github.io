@@ -18,6 +18,7 @@
 
 - 논문
   - Dataset retrieval system based on automation of data preparation with dataset description model (Concurrency and Computation : Practice and Experience, 2019)
+  - Dataset retrieval system based on automation of data preparation with dataset description model (Master's Thesis, 2018)
   - A User-defined Dataset Retrieving Method for Analytical Applications in Machine Learning (APIC-IST, 2017)
   - 헬스 케어 로봇서비스를 위한 시계열 바이탈 시그널의 패턴 분석 방법 (KROS, 2017)
 

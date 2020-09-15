@@ -12,12 +12,12 @@
 
 ### 직업 목표
 
-- 프로그래밍 능력은 기본이고 클라우드 및 CI/CD 도구를 두루 다룰 줄 아는 DevOps 엔지니어, 시스템/플랫폼 개발자
+- 탄탄한 프로그래밍 능력은 물론 클라우드 및 CI/CD 도구를 두루 다룰 줄 아는 DevOps 엔지니어, 시스템/플랫폼 개발자
 
 ### 관심 분야
 
 - 시스템 간 리소스 흐름을 파악하고, 관리하고, 개선하는 것을 좋아합니다.
-- 대용량 트래픽 처리, 컨테이너 기술, 그리고 MSA에 관심을 가지고 공부하며 경험을 쌓고 있습니다. 
+- 대량 트래픽 처리, 컨테이너 기술, 그리고 MSA에 관심을 가지고 공부하며 경험을 쌓고 있습니다. 
 
 ### 관심 문화
 
@@ -29,24 +29,25 @@
 
 ![](https://img.shields.io/badge/2018.01~2020.08--blue.svg)
 
-- [ 2020.02 ~ 2020.08 ] - 사내 SW 제품 SaaS 전환 프로젝트
-- [ 2019.03 ~ 2020.01 ] - 사내 SW 제품 개발 시스템 구축/운영  
+- [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes 기반)
+- [ 2019.03 ~ 2020.09 ] - Docker 기반의 SW 제품 개발 시스템 구축/운영  
 - [ 2018.05 ~ 2019.02 ] - 하나은행 여신 기업평가 시스템 재구축 프로젝트
-
 
 ![](https://img.shields.io/badge/2016.03~2017.12--brightgreen.svg)
 
-- [석사 활동 이력 링크](student.md#석사과정)
+- 노인을 위한 지능형 로봇 서비스 플랫폼 연구 및 개발
+- [석사 활동 상세 이력 링크](student.md#석사과정)
 
 ![](https://img.shields.io/badge/2018.05~2029.02--blue.svg)
 
 - [ 2015.08 ~ 2015.11 ] - 스마트폰 연동 카드 결제 단말기 펌웨어 개발
 - [ 2015.02 ~ 2015.08 ] - 인슐린 펌프 펌웨어 개발
 
-
 ![Generic badge](https://img.shields.io/badge/2018.05~2029.02--brightgreen.svg)
 
-- [학사 활동 이력 링크](student.md#학사과정)
+- GeniXcon - 자이로스코프 센서를 이용한 PC 원격 제어 모바일 애플리케이션
+- 태블릿 PC 보호런쳐 - 사용자 작업 환경 격리 모바일 애플리케이션
+- [학사 활동 상세 이력 링크](student.md#학사과정)
 
 ---
 ## Skills
@@ -67,7 +68,7 @@
 ![](https://img.shields.io/badge/AWS-blue.svg) ![](https://img.shields.io/badge/Azure-blue.svg)
 
 #### Container
-![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/docker--compose-blue.svg) ![](https://img.shields.io/badge/Kubernetes-blue.svg) ![](https://img.shields.io/badge/Container_Registry-blue.svg)
+![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/docker--compose-blue.svg) ![](https://img.shields.io/badge/Kubernetes-blue.svg) ![](https://img.shields.io/badge/Container_Registry-blue.svg) ![](https://img.shields.io/badge/Helm-blue.svg)
 
 #### Static Analysis
 ![](https://img.shields.io/badge/Sonarqube-blue.svg)
@@ -76,7 +77,8 @@
 ![](https://img.shields.io/badge/Postman-blue.svg) ![](https://img.shields.io/badge/Junit-blue.svg) 
 
 #### Monitoring
-![](https://img.shields.io/badge/Kibana-blue.svg) ![](https://img.shields.io/badge/Logstash-blue.svg) ![](https://img.shields.io/badge/metricbeats-blue.svg)
+![](https://img.shields.io/badge/Kibana-blue.svg) ![](https://img.shields.io/badge/Logstash-blue.svg) ![](https://img.shields.io/badge/metricbeats-blue.svg) ![](https://img.shields.io/badge/CloudWatch-blue.svg)
+
 
 #### Cooperation
 ![](https://img.shields.io/badge/Slack-blue.svg) ![](https://img.shields.io/badge/Redmine-blue.svg) ![](https://img.shields.io/badge/Azure_boards-blue.svg) ![](https://img.shields.io/badge/Trello-blue.svg)
