@@ -1,4 +1,4 @@
-# Portfolio
+# CV, Portfolio
 
 - [About Me](#about-me)
 - [Experiences](#experiences)
@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/2016.03~2017.12--brightgreen.svg)
 
 - 노인을 위한 지능형 로봇 서비스 플랫폼 연구 및 개발
-- [석사 활동 상세 이력 링크](student.md#석사과정)
+- [석사 활동 상세 이력](student.md#석사과정)
 
 
 ![](https://img.shields.io/badge/2015.02~2016.02--blue.svg)
@@ -49,13 +49,13 @@
 ![](https://img.shields.io/badge/2014.03~2014.12--brightgreen.svg)
 - Open Hardwere 기반 기술을 활용한 Maker 활동
 - IoT 헤커톤 등 세미나 및 공모전 참가 활동
-- [Maker 활동 소개 링크](maker.md)
+- [Maker 활동 소개](maker.md)
 
 ![](https://img.shields.io/badge/2012.03~2014.02--brightgreen.svg)
 
 - GeniXcon - 자이로스코프를 이용한 PC 원격 제어 모바일 애플리케이션
 - 태블릿 PC 보호런쳐 - 사용자 작업 환경 격리 모바일 애플리케이션
-- [학사 활동 상세 이력 링크](student.md#학사과정)
+- [학사 활동 상세 이력](student.md#학사과정)
 
 ---
 ## Skills
@@ -85,7 +85,7 @@
 ![](https://img.shields.io/badge/Postman-blue.svg) ![](https://img.shields.io/badge/Junit-blue.svg) 
 
 #### Monitoring
-![](https://img.shields.io/badge/Kibana-blue.svg) ![](https://img.shields.io/badge/Logstash-blue.svg) ![](https://img.shields.io/badge/metricbeats-blue.svg) ![](https://img.shields.io/badge/CloudWatch-blue.svg)
+![](https://img.shields.io/badge/Kibana-blue.svg) ![](https://img.shields.io/badge/Logstash-blue.svg) ![](https://img.shields.io/badge/filebeats-blue.svg) ![](https://img.shields.io/badge/metricbeats-blue.svg) ![](https://img.shields.io/badge/CloudWatch-blue.svg)
 
 
 #### Cooperation
