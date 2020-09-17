@@ -21,14 +21,14 @@ C언어를 사용하여 아두이노나 잘 알려진 MCU(Micro controller unit)
 - 상세 설정을 제외한 프로그래밍을 마치고 [속살꽃]을 제작중인 나
 ![](assets/maker/hackathon01.jpg)
 
-- 밤이 깊어갈 수록 코드보다 외면 아름다움에 집작하는 남자들
+- 밤이 깊어갈 수록 코드보다 외면의 아름다움(?)에 집착하는 우리들
 ![](assets/maker/hackathon02.jpg)
 ![](assets/maker/hackathon03.jpg)
 
 - 비싼 돈주고사서 쓸줄 몰라 버릴뻔 했던 고급 모터의 사용법을 알려주신 (주)후본 대표님과
 ![](assets/maker/hackathon04.jpg)
 
-- 대회 종료 1시간 전에 급하게 만든 나름 고퀄리티 프리젠테이션을 진행하는 나
+- 고퀄리티 프리젠테이션을 진행하는 나
 ![](assets/maker/hackathon05.jpg)
 
 - 대상보다 값지다는 [창조상]을 수상한 우리! 고생했다!
