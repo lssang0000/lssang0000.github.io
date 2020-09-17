@@ -29,7 +29,7 @@
 ---
 ## Experiences
 
-![](https://img.shields.io/badge/2018.01~2020.08--blue.svg)
+![](https://img.shields.io/badge/2018.01~2020.09--blue.svg)
 
 - [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes)
 - [ 2019.03 ~ 2020.09 ] - Docker 기반의 SW 제품 개발 시스템 구축/운영  
@@ -40,12 +40,18 @@
 - 노인을 위한 지능형 로봇 서비스 플랫폼 연구 및 개발
 - [석사 활동 상세 이력 링크](student.md#석사과정)
 
-![](https://img.shields.io/badge/2018.05~2029.02--blue.svg)
+
+![](https://img.shields.io/badge/2015.02~2016.02--blue.svg)
 
 - [ 2015.08 ~ 2015.11 ] - 스마트폰 연동 카드 결제 단말기 펌웨어 개발
 - [ 2015.02 ~ 2015.08 ] - 인슐린 펌프 펌웨어 개발
 
-![Generic badge](https://img.shields.io/badge/2018.05~2029.02--brightgreen.svg)
+![](https://img.shields.io/badge/2014.03~2014.12--brightgreen.svg)
+- Open Hardwere 기반 기술을 활용한 Maker 활동
+- IoT 헤커톤 등 세미나 및 공모전 참가 활동
+- [Maker 활동 소개 링크](maker.md)
+
+![](https://img.shields.io/badge/2012.03~2014.02--brightgreen.svg)
 
 - GeniXcon - 자이로스코프를 이용한 PC 원격 제어 모바일 애플리케이션
 - 태블릿 PC 보호런쳐 - 사용자 작업 환경 격리 모바일 애플리케이션
@@ -112,7 +118,7 @@
 
 - 대회명: 드림엔터 IoT 헤커톤
 - 주관: 창조경제 교류공간(드림엔터)
-- 수상: 장려상 
+- 수상: 창조상 
 
 ![](https://img.shields.io/badge/2013-orange.svg)  
 
