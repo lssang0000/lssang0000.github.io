@@ -33,15 +33,15 @@
 
 - [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes)
   - Amazon EKS 클러스터 및 Autoscaling 환경 구축
-  - 사내 SW 제품을 위한 Docker Image 리펙토링 및 K8S manifest 개발
+  - 애플리케이션 Docker 이미지 리펙토링 및 K8S manifest 개발
   - Amazon ECR을 이용한 Continer 이미지 관리
-  - 기존 개발 환경에서 Amazon EKS 클러스터로 배포 CI/CD 구축
+  - Legacy 개발 환경에서 Amazon EKS 클러스터로 배포 CI/CD 구축
   - Amazon Aurora 데이터베이스 구축
 - [ 2019.03 ~ 2020.09 ] - Container 기반의 시스템 구축/운영  
-  - 사내 실기 시험 환경을 위한 Docker 이미지 개발 및 AWS에 구축/운영
-  - 사내 SW 제품 개발 환경을 위한 Docker 이미지 개발 및 IDC 구축/운영
-  - 개발 환경 전반에 걸친 CI/CD 개선 작업 수행
-  - Spring boot를 이용한 계정 관리 시스템 개발 수행
+  - 사내 실기 시험을 위한 Docker 이미지 개발 및 AWS에 구축/운영
+  - SW 개발 환경을 위한 Docker 이미지 개발 및 IDC 구축/운영
+  - 개발 환경 전반에 걸친 CI/CD 개선 
+  - Spring boot를 이용한 계정 관리 시스템 개발 
 - [ 2018.05 ~ 2019.02 ] - 하나은행 여신 기업평가 시스템 재구축 프로젝트
   - Proframe 기반의 온라인, 배치 프로그램 개발
 
