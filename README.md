@@ -41,9 +41,12 @@
   - 사내 실기 시험을 위한 Docker 이미지 개발 및 AWS에 구축/운영
   - SW 개발 환경을 위한 Docker 이미지 개발 및 IDC 구축/운영
   - 개발 환경 전반에 걸친 CI/CD 개선 
+  - exERD 기반의 데이터 모델 관리 (유효성 검증 xscript 작성 등)
+  - MySQL 기반의 DDL, DML 관리
   - Spring boot를 이용한 계정 관리 시스템 개발 
 - [ 2018.05 ~ 2019.02 ] - 하나은행 여신 기업평가 시스템 재구축 프로젝트
   - Proframe 기반의 온라인, 배치 프로그램 개발
+  - Oracle Database 환경의 DQL, DML 작성
 
 ![](https://img.shields.io/badge/2016.03~2017.12--brightgreen.svg)
 
