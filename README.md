@@ -13,7 +13,7 @@
 ### 직업 목표
 
 - 사람은 기초 체력이, 소프트웨어는 기반 기술이 탄탄해야 아름답습니다.
-- 탄탄한 프로그래밍 능력은 물론 클라우드 및 CI/CD 도구를 두루 다룰 줄 아는 DevOps 엔지니어, 시스템/플랫폼 개발자를 목표로 하고있습니다.
+- 탄탄한 프로그래밍 능력은 물론 클라우드 및 CICD 도구를 두루 다룰 줄 아는 DevOps 엔지니어, 시스템/플랫폼 개발자를 목표로 하고있습니다.
 
 
 ### 관심 분야
@@ -35,19 +35,19 @@
   - 주 역할 : Alibaba Cloud 기반 인프라/시스템 관리자, TA
   - Hiware 기반의 사용자 정책/권한 관리(시스템 접근, 명령어 제어 등)
   - Alibaba Cloud API/CLI를 이용한 업무 자동화 (모니터링, 레포팅, 배포, 통합 로깅, 알림)
-  - Jenkins, Asible 기반의 CI/CD 관리/개선
+  - Jenkins, Asible 기반의 CICD 관리/개선
 - [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes)
   - 주 역할 : AWS Cloud 기반 인프라/시스템 관리자, TA
   - Amazon EKS 클러스터 및 Autoscaling 환경 구축
   - 애플리케이션 Docker 이미지 리펙토링 및 K8S manifest 개발
   - Amazon ECR을 이용한 Continer 이미지 관리
-  - Legacy 개발 환경에서 Amazon EKS 클러스터로 배포 CI/CD 구축
+  - Legacy 개발 환경에서 Amazon EKS 클러스터로 배포 CICD 구축
   - Amazon Aurora 데이터베이스 구축
 - [ 2019.03 ~ 2020.09 ] - Container 기반의 시스템 구축/운영  
   - 주 역할 : IDC(Linux) 및 Docker 기반의 개발 환경 관리자
   - SW 개발 환경을 위한 Docker 이미지 개발 및 IDC 구축/운영
   - 사내 실기 시험을 위한 Docker 이미지 개발 및 AWS에 구축/운영
-  - 개발 환경 전반에 걸친 CI/CD 개선 
+  - 개발 환경 전반에 걸친 CICD 개선 
   - exERD 기반의 데이터 모델 관리 (모델 유효성 검사 등)
   - MySQL 기반의 DDL, DML 관리
   - Spring boot를 이용한 계정 관리 시스템 개발 
@@ -114,7 +114,7 @@
 
 
 #### Interested
-![](https://img.shields.io/badge/Helm-gray.svg) ![](https://img.shields.io/badge/Istio-gray.svg) ![](https://img.shields.io/badge/Terraform-gray.svg)
+![](https://img.shields.io/badge/Helm-lightgrey.svg) ![](https://img.shields.io/badge/Istio-lightgrey.svg) ![](https://img.shields.io/badge/Terraform-lightgrey.svg)
 
 ---
 
