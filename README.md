@@ -97,7 +97,7 @@
 ![](https://img.shields.io/badge/AWS-blue.svg) ![](https://img.shields.io/badge/Azure-blue.svg)
 
 #### Container
-![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/docker--compose-blue.svg) ![](https://img.shields.io/badge/Kubernetes-blue.svg) ![](https://img.shields.io/badge/Container_Registry-blue.svg) ![](https://img.shields.io/badge/Helm-blue.svg)
+![](https://img.shields.io/badge/Docker-blue.svg) ![](https://img.shields.io/badge/docker--compose-blue.svg) ![](https://img.shields.io/badge/Kubernetes-blue.svg) ![](https://img.shields.io/badge/Container_Registry-blue.svg) 
 
 #### Static Analysis
 ![](https://img.shields.io/badge/Sonarqube-blue.svg)
@@ -111,6 +111,10 @@
 
 #### Cooperation
 ![](https://img.shields.io/badge/Slack-blue.svg) ![](https://img.shields.io/badge/Redmine-blue.svg) ![](https://img.shields.io/badge/Azure_boards-blue.svg) ![](https://img.shields.io/badge/Trello-blue.svg)
+
+
+#### Interested
+![](https://img.shields.io/badge/Helm-gray.svg) ![](https://img.shields.io/badge/Istio-gray.svg) ![](https://img.shields.io/badge/Terraform-gray.svg)
 
 ---
 
