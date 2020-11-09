@@ -34,7 +34,8 @@
   - Alibaba Cloud 기반 인프라/시스템 관리자, TA
   - 계정계, 대외계 솔루션 및 배치, 스케쥴러 등 SW 인스턴스 관리/운영
   - Hiware 기반의 사용자 정책/권한 관리(시스템 접근, 명령어 제어 등)
-  - Alibaba Cloud API/CLI를 이용한 업무 자동화 (모니터링, 레포팅, 배포, 통합 로깅, 알림)
+  - Alibaba Cloud API/CLI를 이용한 운영 업무 자동화/고도화
+    (모니터링, 레포팅, 배포, 통합 로깅, 알림)
   - Jenkins, Asible 기반의 CICD 관리/개선
 - [ 2020.02 ~ 2020.09 ] - Java 기반 계정계 솔루션 SaaS 전환 프로젝트
   - Kubernetes와 AWS Cloud 기반 인프라/시스템 관리자, TA
