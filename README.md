@@ -15,7 +15,6 @@
 - 사람은 기초 체력이, 소프트웨어는 기반 기술이 탄탄해야 아름답습니다.
 - 탄탄한 프로그래밍 능력은 물론 클라우드 및 CICD 도구를 두루 다룰 줄 아는 DevOps 엔지니어, 시스템/플랫폼 개발자를 목표로 하고있습니다.
 
-
 ### 관심 분야
 
 - 시스템 간 리소스 흐름을 파악하고, 관리하고, 개선하는 것을 좋아합니다.
@@ -32,20 +31,21 @@
 ![](https://img.shields.io/badge/2018.01~2020.09--blue.svg)
 
 - [ 2020.10 ~ ] - BPI(Bank of the Philippine Islands) ITO 
-  - 주 역할 : Alibaba Cloud 기반 인프라/시스템 관리자, TA
+  - Alibaba Cloud 기반 인프라/시스템 관리자, TA
+  - 계정계, 대외계 솔루션 및 배치, 스케쥴러 등 SW 인스턴스 관리/운영
   - Hiware 기반의 사용자 정책/권한 관리(시스템 접근, 명령어 제어 등)
   - Alibaba Cloud API/CLI를 이용한 업무 자동화 (모니터링, 레포팅, 배포, 통합 로깅, 알림)
   - Jenkins, Asible 기반의 CICD 관리/개선
-- [ 2020.02 ~ 2020.09 ] - 사내 SW 제품 SaaS 전환 프로젝트 (Kubernetes)
-  - 주 역할 : AWS Cloud 기반 인프라/시스템 관리자, TA
+- [ 2020.02 ~ 2020.09 ] - Java 기반 계정계 솔루션 SaaS 전환 프로젝트
+  - Kubernetes와 AWS Cloud 기반 인프라/시스템 관리자, TA
   - Amazon EKS 클러스터 및 Autoscaling 환경 구축
   - 애플리케이션 Docker 이미지 리펙토링 및 K8S manifest 개발
   - Amazon ECR을 이용한 Continer 이미지 관리
   - Legacy 개발 환경에서 Amazon EKS 클러스터로 배포 CICD 구축
   - Amazon Aurora 데이터베이스 구축
-- [ 2019.03 ~ 2020.09 ] - Container 기반의 시스템 구축/운영  
-  - 주 역할 : IDC(Linux) 및 Docker 기반의 개발 환경 관리자
-  - SW 개발 환경을 위한 Docker 이미지 개발 및 IDC 구축/운영
+- [ 2019.03 ~ 2020.09 ] - Java 기반 계정계 솔루션 개발 시스템 구축/운영  
+  - IDC(Linux) 및 Docker 기반의 개발 환경 관리자
+  - Java기반의 개발 환경을 위한 Docker 이미지 개발 및 IDC 구축/운영
   - 사내 실기 시험을 위한 Docker 이미지 개발 및 AWS에 구축/운영
   - 개발 환경 전반에 걸친 CICD 개선 
   - exERD 기반의 데이터 모델 관리 (모델 유효성 검사 등)
@@ -53,7 +53,7 @@
   - Spring boot를 이용한 계정 관리 시스템 개발 
 - [ 2018.05 ~ 2019.02 ] - 하나은행 여신 기업평가 시스템 재구축 프로젝트
   - 주 역할 : ProFrame 기반의 여신 업무 개발자
-  - 특수 여신 등 여신 평가와 관련된 화면, 온라인 및 배치 프로그램 개발
+  - 특수 여신 등 여신 평가 화면, 온라인 및 배치 프로그램 개발
   - Oracle Database 환경의 DQL, DML 작성
 
 ![](https://img.shields.io/badge/2016.03~2017.12--brightgreen.svg)
