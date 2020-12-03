@@ -140,7 +140,7 @@
 
 ## Certificates
 
-- [2018.11.21] - AWS Certified Solutions Architect - Associate
+- [2018.12.21] - AWS Certified Solutions Architect - Associate
 - [2013.06.14] - 정보처리기사
 
 ---
